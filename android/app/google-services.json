@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538665777663",
+    "project_id": "sport-is-life-3586b",
+    "storage_bucket": "sport-is-life-3586b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538665777663:android:0d9e29a9a1458e78e28fca",
+        "android_client_info": {
+          "package_name": "com.example.sport_is_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538665777663-feg1jid3eiv6niq0kjcu2dfp2vvljppc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sport_is_life",
+            "certificate_hash": "81af0a421c215f21ba1533d2843424c5409ee05e"
+          }
+        },
+        {
+          "client_id": "538665777663-c62cakvjvcodjqrsuq8b11f43vq9mb3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZgEzjXNdfSYozRAcAf47AVQCMlvFd4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538665777663-c62cakvjvcodjqrsuq8b11f43vq9mb3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

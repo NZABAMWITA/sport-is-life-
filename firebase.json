@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sport-is-life-3586b",
+          "appId": "1:538665777663:android:0d9e29a9a1458e78e28fca",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sport-is-life-3586b",
+          "configurations": {
+            "android": "1:538665777663:android:0d9e29a9a1458e78e28fca",
+            "web": "1:538665777663:web:44e5fda0f77213e0e28fca"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
